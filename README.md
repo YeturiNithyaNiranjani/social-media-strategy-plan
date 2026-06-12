@@ -120,6 +120,27 @@ A well-structured, metrics-driven social media strategy plan bridges the operati
 * Canva Creator Ecosystem
 * Digital Marketing Fundamentals & Case Studies
 
+---
+
+## 🏷️ 13. Strategic Hashtag Bank (TrendStyle Optimization)
+To maximize the organic discoverability of our reels and posts, the following multi-tier hashtag framework is implemented:
+* **Brand Specific:** `#TrendStyleFashion` `#TrendStyleVibes` `#ShopTrendStyle`
+* **Niche & Category Focus:** `#IndianFashionBrand` `#StreetwearIndia` `#GenZFashion` `#ModernOutfits` `#AestheticLookbook`
+* **High-Volume Algorithmic Push:** `#FashionReels` `#OOTDIndia` `#DigitalMarketingFashion` `#ExplorePage` `#TrendingOutfits`
+
+---
+
+## ✍️ 14. Sample Ad Copy & Content Caption Showcase
+Here is a live production-ready copywriting sample designed for the Monday "New Collection Launch":
+
+> **⚡ Primary Caption:**
+> "Ready to upgrade your wardrobe game? 🌟 **TrendStyle Fashion** officially drops its premium Gen-Z & Millennial collection this Monday! Fresh structural cuts, sustainable premium fabrics, and styles that turn heads instantly. 🛍️  
+>   
+> **💥 Limited Launch Offer:** Use code **TREND20** for a flat 20% OFF on your first purchase!  
+> 🔗 Click the link in our bio to shop the drop now!  
+>   
+> #TrendStyleFashion #NewArrivals #GenZFashion #OOTDIndia #ExplorePage"
+
 
 
 
