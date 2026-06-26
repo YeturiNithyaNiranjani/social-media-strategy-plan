@@ -1,3 +1,4 @@
+![Social Media Strategy Banner](banner.png)
 # 🚀 Advanced Social Media Strategy Plan & Growth Roadmap
 
 ---
