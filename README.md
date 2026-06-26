@@ -10,7 +10,7 @@
 * **Organization:** CODTECH IT Solutions
 * **Project Reference:** Task 1 - Social Media Strategy Plan
 * **Project Target Brand:** TrendStyle Fashion (Online Clothing Brand)
-* **Internship Duration:** 2 Months (Continuous Optimization Loop)
+* **Internship Duration:** 2 Months 
 
 ---
 
