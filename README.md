@@ -115,9 +115,9 @@ A well-structured, metrics-driven social media strategy plan bridges the operati
 ---
 
 ## 📚 12. References
-* Google Trends Analytics Framework
+* Google Trends 
 * Meta Business Suite Optimization Guides
-* Canva Creator Ecosystem
+* Canva Design Resources 
 * Digital Marketing Fundamentals & Case Studies
 
 ---
