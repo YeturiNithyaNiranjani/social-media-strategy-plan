@@ -35,7 +35,9 @@ Social media marketing is one of the most effective ways for businesses to conne
 | **Location** | India (Tier-1 & Tier-2 Cities via Digital Reach) |
 | **Interests** | Sustainable Fashion, Online Shopping, Streetwear, Lifestyle, Modern Trends |
 | **Buying Behavior** | High mobile usage, discount-driven, influenced by short-form video content (Reels/Shorts) |
-
+<p align="center">
+  <img src="target-audience-analysis.png" width="500">
+</p>
 ---
 
 ## ⚔️ 4. Competitor Analysis & Benchmarking
