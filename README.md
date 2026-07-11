@@ -7,7 +7,7 @@
 * **Intern Name:** Yeturi Nithya Niranjani
 * **Intern ID:** CITS1133
 * **Internship Domain:** Digital Marketing
-* **Organization:** CODTECH IT Solutions
+* **Organization:** CODTECH IT Solutions Private Limited 
 * **Project Reference:** Task 1 - Social Media Strategy Plan
 * **Project Target Brand:** TrendStyle Fashion (Online Clothing Brand)
 
