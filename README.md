@@ -38,6 +38,8 @@ Social media marketing is one of the most effective ways for businesses to conne
 <p align="center">
   <img src="target-audience-analysis.png" width="500">
 </p>
+<p align="center"><i>Figure 1: Target Audience Analysis</i></p>
+
 ---
 
 ## ⚔️ 4. Competitor Analysis & Benchmarking
