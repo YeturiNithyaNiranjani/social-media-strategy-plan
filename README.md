@@ -102,7 +102,7 @@ To accelerate growth alongside organic efforts, a balanced paid marketing budget
 ---
 
 ## 📈 10. Expected Data Outcomes & Key Performance Indicators (KPIs)
-* Achieving a projected **20% increase in total followers** within the implementation cycle.
+* Achieving a projected **20% increase in followers during the implementation period.
 * **Click-Through Rate (CTR):** Elevating the volume of traffic routing directly from social biographies to primary landing pages.
 * **Higher Engagement Rate:** Measurable increases in likes, comments, and profile saves (Algorithmic Trust).
 * **Customer Acquisition Cost (CAC):** Optimizing paid campaign structures to reduce overall acquisition costs.
@@ -116,9 +116,9 @@ A well-structured, metrics-driven social media strategy plan bridges the operati
 
 ## 📚 12. References
 * Google Trends 
-* Meta Business Suite Optimization Guides
+* Meta Business Suite Documentation
 * Canva Design Resources 
-* Digital Marketing Fundamentals & Case Studies
+* Digital Marketing Fundamentals 
 
 ---
 
