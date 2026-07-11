@@ -47,6 +47,11 @@ To position **TrendStyle Fashion** effectively, we continuously benchmark agains
 * **Content Gaps:** Identifying underutilized content buckets like detailed fabric-breakdown videos.
 * **Hashtag Strategy:** Auditing high-volume, niche, and location-specific fashion hashtags.
 * **Engagement Tactics:** Analyzing competitor response times and interactive community stories.
+<p align="center">
+  <img src="competitor-radar.png" width="500">
+</p>
+
+<p align="center"><i>Figure 2: Competitor Analysis Radar</i></p>
 
 ---
 
