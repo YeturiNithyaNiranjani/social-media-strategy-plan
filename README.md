@@ -70,6 +70,11 @@ To position **TrendStyle Fashion** effectively, we continuously benchmark agains
 ### 🎥 YouTube (Search Authority & Video Content)
 * Fashion Tips, DIY Styling Video Guides, and "Haul" videos.
 * Authentic Product Reviews and engaging YouTube Shorts (Value Bombs).
+<p align="center">
+  <img src="multichannel-strategy.png" width="500">
+</p>
+
+<p align="center"><i>Figure 3: Multi-Channel Distribution Strategy</i></p>
 
 ---
 
