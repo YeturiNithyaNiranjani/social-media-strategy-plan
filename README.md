@@ -120,6 +120,11 @@ To accelerate growth alongside organic efforts, a balanced paid marketing budget
 * **Click-Through Rate (CTR):** Elevating the volume of traffic routing directly from social biographies to primary landing pages.
 * **Higher Engagement Rate:** Measurable increases in likes, comments, and profile saves (Algorithmic Trust).
 * **Customer Acquisition Cost (CAC):** Optimizing paid campaign structures to reduce overall acquisition costs.
+<p align="center">
+  <img src="campaign-dashboard.png" width="500">
+</p>
+
+<p align="center"><i>Figure 4: Campaign Performance Dashboard (KPIs)</i></p>
 
 ---
 
